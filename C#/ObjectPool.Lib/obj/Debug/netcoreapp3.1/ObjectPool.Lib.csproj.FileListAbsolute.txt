@@ -1,0 +1,16 @@
+C:\Programmering\ObjectPool\ObjectPool.Lib\bin\Debug\netcoreapp3.1\ObjectPool.Lib.deps.json
+C:\Programmering\ObjectPool\ObjectPool.Lib\bin\Debug\netcoreapp3.1\ObjectPool.Lib.dll
+C:\Programmering\ObjectPool\ObjectPool.Lib\bin\Debug\netcoreapp3.1\ObjectPool.Lib.pdb
+C:\Programmering\ObjectPool\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.csprojAssemblyReference.cache
+C:\Programmering\ObjectPool\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.AssemblyInfoInputs.cache
+C:\Programmering\ObjectPool\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.AssemblyInfo.cs
+C:\Programmering\ObjectPool\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.dll
+C:\Programmering\ObjectPool\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.pdb
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\bin\Debug\netcoreapp3.1\ObjectPool.Lib.deps.json
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\bin\Debug\netcoreapp3.1\ObjectPool.Lib.dll
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\bin\Debug\netcoreapp3.1\ObjectPool.Lib.pdb
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.csprojAssemblyReference.cache
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.AssemblyInfoInputs.cache
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.AssemblyInfo.cs
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.dll
+C:\Programmering\ObjectPool\C#\ObjectPool.Lib\obj\Debug\netcoreapp3.1\ObjectPool.Lib.pdb

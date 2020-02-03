@@ -1,0 +1,17 @@
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\bin\Debug\netcoreapp3.1\ObjectPool.Example.exe
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\bin\Debug\netcoreapp3.1\ObjectPool.Example.deps.json
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\bin\Debug\netcoreapp3.1\ObjectPool.Example.runtimeconfig.json
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\bin\Debug\netcoreapp3.1\ObjectPool.Example.runtimeconfig.dev.json
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\bin\Debug\netcoreapp3.1\ObjectPool.Example.dll
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\bin\Debug\netcoreapp3.1\ObjectPool.Example.pdb
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example.csprojAssemblyReference.cache
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example_MarkupCompile.cache
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example_MarkupCompile.lref
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example.g.resources
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example.AssemblyInfoInputs.cache
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example.AssemblyInfo.cs
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example.dll
+C:\Programmering\ObjectPool\C#\ObjectPool.Example\obj\Debug\netcoreapp3.1\ObjectPool.Example.pdb
