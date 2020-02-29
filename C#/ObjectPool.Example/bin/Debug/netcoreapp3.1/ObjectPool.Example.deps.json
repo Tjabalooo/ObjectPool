@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ObjectPool.Example/1.0.0": {
+        "dependencies": {
+          "ObjectPool.Lib": "1.0.0"
+        },
         "runtime": {
           "ObjectPool.Example.dll": {}
+        }
+      },
+      "ObjectPool.Lib/1.0.0": {
+        "runtime": {
+          "ObjectPool.Lib.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ObjectPool.Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjectPool.Lib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

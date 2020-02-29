@@ -5,6 +5,8 @@ namespace ObjectPool.Lib
 {
     public class ObjectPool<T> : IDisposable where T : PoolObject<T>, new()
     {
+        
+
         private bool disposedValue = false; // To detect redundant calls
 
         private int poolSize;
@@ -17,6 +19,7 @@ namespace ObjectPool.Lib
             pool = new List<T>(poolSize);
             for (var i = 0; i < poolSize; i++)
             {
+                PoolObject<T>.IncomingCtorCallFromPool = true;
                 var obj = new T();
                 pool.Add(obj);
                 if (i > 0)
@@ -44,6 +47,7 @@ namespace ObjectPool.Lib
                     if (obj.NextObject == null)
                         nextObjectNullCount++;
 
+                    obj.IncomingDisposeCallFromPool = true;
                     obj.Dispose();
                 }
 

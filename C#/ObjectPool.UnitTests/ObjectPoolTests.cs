@@ -147,5 +147,19 @@ namespace ObjectPool.UnitTests
 
             Assert.Equal(POOL_SIZE, disposeCount);
         }
+
+        [Fact]
+        public void DisposingAnObjectOutsideOfThePoolThrowsException()
+        {
+            var obj = sut.GetObjectFromPool();
+
+            Assert.Throws<DisposingOutsideOfPoolException>(() => obj.Dispose());
+        }
+
+        [Fact]
+        public void CreatingAnObjectOutsideOfThePoolThrowsException()
+        {
+            Assert.Throws<CreatingOutsideOfPoolException>(() => { var obj = new DummyObj(); });
+        }
     }
 }
